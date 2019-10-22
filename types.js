@@ -266,3 +266,24 @@ types.type26 = {
 					 [1,0,0,0,0,0,0,0,0,0],
 					 [1,0,0,0,0,0,0,0,0,0]]
 };
+
+
+types.type27 = {
+"name" : "type27",
+"width" : 4,
+"height" : 4,
+"maxRotation" : 4,
+"shape" : [[1,0,0,0],
+					 [0,1,0,1],
+				 	 [0,0,1,1],
+				 	 [0,1,1,1]]
+};
+
+types.type28 = {
+"name" : "type28",
+"width" : 2,
+"height" : 2,
+"maxRotation" : 2,
+"shape" : [[1,0],
+					 [0,1]]
+};

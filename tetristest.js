@@ -45,7 +45,7 @@ var handle = {
         this.width = 0;
         this.height = 0;
         this.rotation = 0;
-        this.setType("type"+(Math.floor(Math.random()*100)%26 + 1));
+        this.setType("type"+(Math.floor(Math.random()*100)%28 + 1));
         this.setTop();
         this.rotate(0);
 
