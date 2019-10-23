@@ -287,3 +287,72 @@ types.type28 = {
 "shape" : [[1,0],
 					 [0,1]]
 };
+
+types.type29 = {
+"name" : "type29",
+"width" : 3,
+"height" : 3,
+"maxRotation" : 1,
+"shape" : [[1,0,1],
+					 [0,1,0],
+				 	 [1,0,1]]
+};
+
+types.type30 = {
+"name" : "type30",
+"width" : 3,
+"height" : 3,
+"maxRotation" : 4,
+"shape" : [[1,0,1],
+					 [0,1,0],
+				 	 [0,1,0]]
+};
+
+types.type31 = {
+"name" : "type31",
+"width" : 3,
+"height" : 3,
+"maxRotation" : 4,
+"shape" : [[1,1,1],
+					 [0,1,0],
+				 	 [1,1,1]]
+};
+
+types.type32 = {
+"name" : "type32",
+"width" : 3,
+"height" : 3,
+"maxRotation" : 4,
+"shape" : [[1,0,1],
+					 [0,0,0],
+				 	 [0,1,0]]
+};
+
+types.type33 = {
+"name" : "type33",
+"width" : 3,
+"height" : 3,
+"maxRotation" : 1,
+"shape" : [[1,0,1],
+					 [0,0,0],
+				 	 [1,0,1]]
+};
+
+types.type34 = {
+"name" : "type34",
+"width" : 2,
+"height" : 2,
+"maxRotation" : 2,
+"shape" : [[1,0],
+					 [1,0]]
+};
+
+types.type35 = {
+"name" : "type35",
+"width" : 3,
+"height" : 3,
+"maxRotation" : 4,
+"shape" : [[1,1,0],
+					 [0,0,0],
+				 	 [1,1,0]]
+};
